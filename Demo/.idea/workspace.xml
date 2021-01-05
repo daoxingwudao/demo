@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cacb7002-7901-42c9-ae46-74f5169bc150" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app01/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app01/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app01/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app01/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app01/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app01/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app02/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app02/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app02/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app02/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app02/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app02/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app02/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="cacb7002-7901-42c9-ae46-74f5169bc150" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
